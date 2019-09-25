@@ -1,8 +1,11 @@
 # reading resources for IT including full stack tech (Java|Kotlin, Spring, Python, Node, Typescript, Angular, React, Vue) & AI, Big Data etc.
 
-## ML
+## ML Blogs
 
++ [斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
 + [周志华西瓜书的笔记](https://github.com/Vay-keen/Machine-learning-learning-notes.git)
+
+## ML Books
 + [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 + [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 + [Speech and Language Processing | 3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/)
