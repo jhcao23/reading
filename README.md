@@ -5,7 +5,7 @@
 + [周志华西瓜书的笔记](https://github.com/Vay-keen/Machine-learning-learning-notes.git)
 + [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book)
 + [Vay-keen | 周志华机器学习的学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
-+ [AI精研社 | 李航老师 | 统计学习方法 | 第2版](https://www.bilibili.com/read/cv3587898)
++ [B站 精讲 | AI精研社 | 李航 | 统计学习方法 | 第2版](https://www.bilibili.com/read/cv3587898)
 + [是不是很酷 | 大神liuyubobobo](https://github.com/liuyubobobo/my-blog)
 + [B站 | 荟呀荟学习 | 机器学习频道](https://space.bilibili.com/62986950/channel/detail?cid=72444)
 
