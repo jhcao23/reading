@@ -23,6 +23,7 @@
 + [Andew Ng AI](https://www.deeplearning.ai/)
 + [Andrww Ng ML Coursera](https://www.coursera.org/learn/machine-learning)
 + [Andrew Ng DL Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
-+ [FeiFei Li CS231n](http://cs231n.stanford.edu)
++ [FeiFei Li | CS231n](http://cs231n.stanford.edu)
++ [李沐 | Dive into Deep Learning](http://numpy.d2l.ai)
 + [东方耀 AI](http://www.ai111.vip)
 + [慕课网 | Python3入门机器学习经典算法与应用 | 大神liuyubobobo](https://coding.imooc.com/class/169.html)[笔记](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
