@@ -1,4 +1,4 @@
-# reading resources for IT including full stack tech (Java|Kotlin, Spring, Python, Node, Typescript, Angular, React, Vue) & AI, Big Data etc.
+# Reading resources for IT including full stack tech (Java|Kotlin, Spring, Python, Node, Typescript, Angular, React, Vue) & AI, Big Data etc.
 
 ## ML Blogs Notes
 + [斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
