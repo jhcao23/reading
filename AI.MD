@@ -32,6 +32,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Andrww Ng ML Coursera](https://www.coursera.org/learn/machine-learning)
 + [Andrew Ng DL Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
 + [FeiFei Li CS231n](http://cs231n.stanford.edu)
++ [斯坦福NLP CS224N](http://web.stanford.edu/class/cs224n/)
 + [东方耀 AI](http://www.ai111.vip)
 + [李沐 Dive into Deep Learning](http://numpy.d2l.ai) [笔记](https://github.com/d2l-ai/d2l-en)
 + [慕课网 Python3入门机器学习经典算法与应用 大神liuyubobobo](https://coding.imooc.com/class/169.html) [笔记](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
