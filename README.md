@@ -15,7 +15,6 @@
 + [Deep Learning Book](http://www.deeplearningbook.org)
 + [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 + [Speech and Language Processing, 3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/)
-+ [Beautiful Code](https://github.com/lancetw/ebook-1/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf)
 + [百面机器学习](https://vel.life/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/%E7%99%BE%E9%9D%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 + [统计学习方法 第二版 貌似官方GitHub](https://github.com/SmirkCao/Lihang)
 
