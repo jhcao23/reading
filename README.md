@@ -1,8 +1,9 @@
 # Reading resources for IT including full stack tech (Java|Kotlin, Spring, Python, Node, Typescript, Angular, React, Vue) & AI, Big Data etc.
 
 ## ML Blogs Notes
-+ [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books)
-+ [黄海广的学习笔记-吴恩达ML](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
++ [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books) [PDF](
+https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度学习笔记v5.61.pdf)
++ [黄海广的学习笔记-吴恩达ML](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) [PDF](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes/blob/master/机器学习个人笔记完整版v5.4-A4打印版.pdf)
 + [斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
 + [周志华西瓜书的笔记](https://github.com/Vay-keen/Machine-learning-learning-notes.git)
 + [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book)
