@@ -46,6 +46,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [MIT Deep Learning](https://deeplearning.mit.edu/)
 + [PyTorch官方教程中文版](http://pytorch123.com/)
 + [MLCOURSE.AI](https://mlcourse.ai)
++ [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
 
 ## Data Set
 + [Machine learning datasets](https://www.datasetlist.com/)
