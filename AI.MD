@@ -16,7 +16,6 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [B站 荟呀荟学习 机器学习频道](https://space.bilibili.com/62986950/channel/detail?cid=72444)
 
 ## ML Books
-+ [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 + [Deep Learning Book](http://www.deeplearningbook.org)
 + [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 + [Speech and Language Processing, 3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/)
