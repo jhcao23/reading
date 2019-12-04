@@ -4,6 +4,7 @@
 + [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books) [PDF](
 https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度学习笔记v5.61.pdf)
 + [李宏毅机器DataWhale的学习笔记](https://datawhalechina.github.io/leeml-notes)
++ [Deep-Learning-Book-Chapter-Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries)
 
 ## ML Blogs and Notes
 + [黄海广的学习笔记-吴恩达ML](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) [PDF](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes/blob/master/机器学习个人笔记完整版v5.4-A4打印版.pdf)
@@ -14,6 +15,11 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [B站 AI精研社 李航 统计学习方法 第2版](https://www.bilibili.com/read/cv3587898)
 + [是不是很酷 大神liuyubobobo](https://github.com/liuyubobobo/my-blog)
 + [B站 荟呀荟学习 机器学习频道](https://space.bilibili.com/62986950/channel/detail?cid=72444)
+
++ [Tensroflow练习](https://github.com/princewen/tensorflow_practice)
++ [Inveterate Learner on a few chapters of DeepLearningBook](https://medium.com/inveterate-learner)
++ [hadrienj reads DeepLearningBook](https://hadrienj.github.io/)
++ [Deep Learning Rules of Thumb](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb)
 
 ## ML Books
 + [Deep Learning Book](http://www.deeplearningbook.org)
@@ -34,3 +40,17 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [慕课网 Python3入门机器学习经典算法与应用 大神liuyubobobo](https://coding.imooc.com/class/169.html) [笔记](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 + [fast.ai](https://course.fast.ai/index.html)
 + [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)     [YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)     [B站](https://www.bilibili.com/video/av9770302/?from=search&seid=9981051227372686627)
++ [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
+## Non popular courses
++ [MIT Deep Learning](https://deeplearning.mit.edu/)
++ [PyTorch官方教程中文版](http://pytorch123.com/)
++ [MLCOURSE.AI](https://mlcourse.ai)
+
+## Data Set
++ [Machine learning datasets](https://www.datasetlist.com/)
+
+## Collection
++ [Microsoft AI Edu](https://github.com/microsoft/ai-edu)
++ [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+
