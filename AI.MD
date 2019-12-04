@@ -5,6 +5,7 @@
 https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度学习笔记v5.61.pdf)
 + [李宏毅机器DataWhale的学习笔记](https://datawhalechina.github.io/leeml-notes)
 + [Deep-Learning-Book-Chapter-Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries)
++ [智能算法之深度学习38篇](https://mp.weixin.qq.com/s/uP6dotUH650h9pepdzIJ_A)
 
 ## ML Blogs and Notes
 + [黄海广的学习笔记-吴恩达ML](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) [PDF](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes/blob/master/机器学习个人笔记完整版v5.4-A4打印版.pdf)
