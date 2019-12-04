@@ -2,7 +2,7 @@
 
 ## ML Blogs Notes
 + [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books)
-+ [黄海广的学习笔记-吴恩达ML)(https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
++ [黄海广的学习笔记-吴恩达ML](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 + [斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
 + [周志华西瓜书的笔记](https://github.com/Vay-keen/Machine-learning-learning-notes.git)
 + [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book)
