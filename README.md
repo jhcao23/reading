@@ -8,6 +8,8 @@
 + [B站 AI精研社 李航 统计学习方法 第2版](https://www.bilibili.com/read/cv3587898)
 + [是不是很酷 大神liuyubobobo](https://github.com/liuyubobobo/my-blog)
 + [B站 荟呀荟学习 机器学习频道](https://space.bilibili.com/62986950/channel/detail?cid=72444)
++ [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
++ [李宏毅机器DataWhale的学习笔记](https://datawhalechina.github.io/leeml-notes)
 
 ## ML Books
 + [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
