@@ -1,4 +1,4 @@
-# AI Reading resources
+# AI Reading Resources
 
 ## DL Blogs and Notes
 + [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books) [PDF](
