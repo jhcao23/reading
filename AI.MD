@@ -16,6 +16,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [B站 AI精研社 李航 统计学习方法 第2版](https://www.bilibili.com/read/cv3587898)
 + [是不是很酷 大神liuyubobobo](https://github.com/liuyubobobo/my-blog)
 + [B站 荟呀荟学习 机器学习频道](https://space.bilibili.com/62986950/channel/detail?cid=72444)
++ [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## ML Books
 + [Deep Learning Book](http://www.deeplearningbook.org)
@@ -31,13 +32,13 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Andrww Ng ML Coursera](https://www.coursera.org/learn/machine-learning)
 + [Andrew Ng DL Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
 + [FeiFei Li CS231n](http://cs231n.stanford.edu)
-----------------------------------------------------------------------
 + [东方耀 AI](http://www.ai111.vip)
 + [李沐 Dive into Deep Learning](http://numpy.d2l.ai) [笔记](https://github.com/d2l-ai/d2l-en)
 + [慕课网 Python3入门机器学习经典算法与应用 大神liuyubobobo](https://coding.imooc.com/class/169.html) [笔记](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 + [fast.ai](https://course.fast.ai/index.html)
 + [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)     [YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)     [B站](https://www.bilibili.com/video/av9770302/?from=search&seid=9981051227372686627)
-+ [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
++ [PyTorch官方教程中文版](http://pytorch123.com/)
++ [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
 
 ## Data Set & Tools
 + [Machine learning datasets](https://www.datasetlist.com/)
@@ -49,10 +50,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 
 ## Non popular courses & blogs
 + [MIT Deep Learning](https://deeplearning.mit.edu/)
-+ [PyTorch官方教程中文版](http://pytorch123.com/)
 + [MLCOURSE.AI](https://mlcourse.ai)
-+ [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
-----------------------------------------------------------------------
 + [Tensroflow练习](https://github.com/princewen/tensorflow_practice)
 + [Inveterate Learner on a few chapters of DeepLearningBook](https://medium.com/inveterate-learner)
 + [hadrienj reads DeepLearningBook](https://hadrienj.github.io/)
