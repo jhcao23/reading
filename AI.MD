@@ -51,6 +51,6 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Machine learning datasets](https://www.datasetlist.com/)
 
 ## Collection
-+ [Microsoft AI Edu](https://github.com/microsoft/ai-edu)
++ [Microsoft AI education materials for Chinese](https://github.com/microsoft/ai-edu)
 + [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
 
