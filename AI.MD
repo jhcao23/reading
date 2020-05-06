@@ -36,13 +36,15 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Andrew Ng DL Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
 + [FeiFei Li CS231n](http://cs231n.stanford.edu)
 + [斯坦福NLP CS224N](http://web.stanford.edu/class/cs224n/)
++ [哈佛 CS50.3 人工智能导论](https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python), [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv), [B站](https://www.bilibili.com/video/BV1tT4y137LB)
++ [加州理工 数据驱动算法设计](https://sites.google.com/view/cs-159-spring-2020): CS159 Data-Driven Algorithm Design, [YouTube](https://www.youtube.com/watch?v=BRNGoqaa2Ck&list=PLuz4CTPOUNi4Dz6zBPypcI8I3oJUjFKk4), [B站](http://bilibili.com/video/BV1ip4y1X7uY)
 + [东方耀 AI](http://www.ai111.vip)
 + [李沐 Dive into Deep Learning](http://numpy.d2l.ai) [笔记](https://github.com/d2l-ai/d2l-en)
 + [慕课网 Python3入门机器学习经典算法与应用 大神liuyubobobo](https://coding.imooc.com/class/169.html) [笔记](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 + [慕课网 专为程序员设计的线性代数课程 大神liuyubobobo](https://coding.imooc.com/class/260.html)
 + [fast.ai](https://course.fast.ai/index.html)
-+ [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html),     [YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ),     [B站](https://www.bilibili.com/video/BV1JE411g7XF)
-+ [PyTorch官方教程中文版](http://pytorch123.com/)
++ [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html),     [YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ),     [B站 ML+DL 2020](https://www.bilibili.com/video/BV1JE411g7XF)
++ [PyTorch官方教程中文版](http://pytorch123.com/), [NLP 2020](https://www.bilibili.com/video/BV1QE411p7z3)
 + [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
 
 ## Data Set & Tools
