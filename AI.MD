@@ -41,7 +41,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [慕课网 Python3入门机器学习经典算法与应用 大神liuyubobobo](https://coding.imooc.com/class/169.html) [笔记](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 + [慕课网 专为程序员设计的线性代数课程 大神liuyubobobo](https://coding.imooc.com/class/260.html)
 + [fast.ai](https://course.fast.ai/index.html)
-+ [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)     [YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)     [B站](https://www.bilibili.com/video/av9770302/?from=search&seid=9981051227372686627)
++ [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html),     [YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ),     [B站](https://www.bilibili.com/video/BV1JE411g7XF)
 + [PyTorch官方教程中文版](http://pytorch123.com/)
 + [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
 
