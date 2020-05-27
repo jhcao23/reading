@@ -1,3 +1,7 @@
-# Reading resources for IT including full stack tech (Java|Kotlin, Spring, Python, Node, Typescript, Angular, React, Vue) & AI, Big Data etc.
+# Reading resources for the future oriented _FULL stack_ 
 
-## [Artificial Intelligence | Machine Learning | Deep Learning | Neural Network](AI.MD)
+This includes, but not limited to, `Java 8+, Kotlin, Scala, Spring, Python 3, Node, Typescript, Angular 9+, React, Vue 3+` and `AI (Machine Learning, Deep Learning)`, `Big Data` etc.
+
+## [AI](AI.MD)
+
+## [Drawing](drawing.md)
