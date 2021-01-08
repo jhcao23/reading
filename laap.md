@@ -1,0 +1,156 @@
+# Learning Platforms
+- [16 BEST Online Course Platforms in 2021](https://www.guru99.com/best-online-course-platforms.html)
+  - Thinkific
+  - ShowTime
+  - Udemy
+  - LearnWorldS
+  - Linkedin Learning
+  - Talentlms
+  - Podia
+  - Udacity
+  - Learndash
+  - Alison
+  - Kajabi
+  - Skillshare
+  - Teachable
+  - WizIQ
+  - Ruzuku
+  - OpenSesame
+  - ISpring Learn
+- [Top 10 Best Online Course Platforms in 2021](https://eduardklein.com/best-online-course-platforms/)
+  - LearnWorlds
+  - Teachable
+  - Thinkific
+  - Podia
+  - Kajabi
+  - LearnDash
+  - EasyWebinar
+  - Skillshare
+  - Udemy
+  - CreativeLive
+- [22 Best Online Learning Platforms 2021](https://www.courselounge.com/online-learning-platforms/) (/)
+  - LinkedIn Learning
+  - SkillShare
+  - Udemy
+  - Coursera
+  - Pluralsight
+  - Udacity
+  - GoSkills
+  - EdX
+  - DataCamp
+  - TreeHouse
+  - Khan Academy
+  - SitePoint
+  - Thinkful
+  - General Assembly
+  - FutureLearn
+  - Alison
+  - OpenLearning
+  - Ed2Go
+  - SkillCrush
+  - Codecademy
+  - Stanford
+  - MIT Video
+- [Top 10+ Best Online Course Platforms Reviewed and Compared](https://ecommerce-platforms.com/compare/top-5-best-platforms-publish-sell-online-courses-reviewed-compared)
+  - Teachable
+  - Podia
+  - Thinkific
+  - Academy of Mine
+  - Teachery
+  - Ruzuku
+  - Udemy
+  - Kajabi
+  - iSpring Market
+  - WizIQ
+  - LearnWorlds
+  - LearnDash
+  - SkillShare
+- [15+ Platforms to Create and Sell Online Courses](https://www.learningrevolution.net/sell-online-courses/)
+  - Thinkific
+  - LearnWorlds
+  - Teachable
+  - Podia
+  - Click4Course
+  - Pathwright
+  - Zippy Courses
+  - Kajabi
+  - Kartra
+  - LearnDash
+  - AccessAlly
+  - Course Cats
+  - LifterLMS
+  - OpenSesame
+  - Skillshare
+  - Udemy
+  - Uscreen
+  - Muvi
+- [Best Online Learning Sites for Skills and Courses](https://blog.givingassistant.org/best-online-learning-sites/)
+  - Udemy
+  - LinkedIn Learning
+  - Coursera
+  - edX
+  - Skillshare
+  - Bluprint
+  - CreativeLive
+  - Creativebug
+  - Kaplan IT Training
+  - Intellipaat
+  - Khan Academy
+- [9 Best Online Learning Platforms](https://www.newsweek.com/amplify/9-best-online-learning-platforms-ultimate-learning-guide-2020)
+  - Masterclass
+  - Codeacademy
+  - Udemy
+  - Premier TEFL
+  - Mindvalley
+  - Blinkist
+  - Coursera
+  - The Great Courses Plus
+  - Fluent City
+- [The Ultimate List of Online Learning Platforms for 2021](https://learnerfix.com/online-learning-platforms/)
+  - Udemy
+  - LinkedIn Learning
+  - Masterclass
+  - Blinkist
+  - Skillshare
+  - Creative Live
+  - Tuts+
+  - Coursera
+  - edX
+  - Iversity
+  - Khan Academy
+  - Brilliant
+  - Treehouse
+  - Pluralsight
+  - Bloc.io
+  - Code Academy
+  - Duolingo
+  - italki
+  - Babbel
+  - Memrise
+  - LingQ
+- [Top 10 Online Learning Platform Sites for 2021](https://www.top10.com/online-learning-sites)
+  - edX
+  - Edureka
+  - CreativeLive
+  - Coursera
+  - LinkedIn Learning 
+  - Udacity
+  - Udemy
+  - Acadium
+  - PluralSight
+  - Expert Rating
+- [Online Learning Platforms: What You Need to Know](https://upskillwise.com/online-learning-platforms/)
+  - edX
+  - Coursera
+  - Skillshare
+  - Udacity
+  - Udemy
+  - LinkedIn Learning
+  - Pluralsight
+  - Codecademy 
+  - Datacamp
+  - Treehouse
+  - Creativelive
+  - Simplilearn
+  - MasterClass
+  
