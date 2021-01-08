@@ -1,4 +1,4 @@
-# Learning Platforms
+# Learning As A Platforms
 - [16 BEST Online Course Platforms in 2021](https://www.guru99.com/best-online-course-platforms.html)
   - Thinkific
   - ShowTime
