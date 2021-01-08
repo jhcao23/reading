@@ -28,7 +28,7 @@
   - Skillshare
   - Udemy
   - CreativeLive
-- [22 Best Online Learning Platforms 2021](https://www.courselounge.com/online-learning-platforms/) (/)
+- [22 Best Online Learning Platforms 2021](https://www.courselounge.com/online-learning-platforms/) :+1:
   - LinkedIn Learning
   - SkillShare
   - Udemy
