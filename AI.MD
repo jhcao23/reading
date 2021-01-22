@@ -52,6 +52,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 ## Data Set & Tools
 + NLP tool [Inbenta](https://www.inbenta.com/)
 + [Algorithmia](https://algorithmia.com/)
++ [Arcanum](https://www.arcanum.ai/)
 + [Machine learning datasets](https://www.datasetlist.com/)
 
 ## CV
