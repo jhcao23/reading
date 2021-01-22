@@ -53,6 +53,10 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + NLP tool [Inbenta](https://www.inbenta.com/)
 + [Machine learning datasets](https://www.datasetlist.com/)
 
+## CV
++ [OpenCV](https://opencv.org/)
++ [DarkNet](https://pjreddie.com/darknet/)
+
 ## Collection
 + [Microsoft AI education materials for Chinese](https://github.com/microsoft/ai-edu)
 + [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
