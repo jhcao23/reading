@@ -36,6 +36,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Andrew Ng DL Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
 + [FeiFei Li CS231n](http://cs231n.stanford.edu)
 + [斯坦福NLP CS224N](http://web.stanford.edu/class/cs224n/)
++ [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 + [哈佛 CS50.3 人工智能导论](https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python), [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv), [B站](https://www.bilibili.com/video/BV1tT4y137LB)
 + [加州理工 数据驱动算法设计](https://sites.google.com/view/cs-159-spring-2020): CS159 Data-Driven Algorithm Design, [YouTube](https://www.youtube.com/watch?v=BRNGoqaa2Ck&list=PLuz4CTPOUNi4Dz6zBPypcI8I3oJUjFKk4), [B站](http://bilibili.com/video/BV1ip4y1X7uY)
 + [Vector Institute](https://vectorinstitute.ai)
