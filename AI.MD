@@ -50,6 +50,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [交互式线性代数](http://textbooks.math.gatech.edu/ila/index.html)
 
 ## Data Set & Tools
++ NLP tool [Inbenta](https://www.inbenta.com/)
 + [Machine learning datasets](https://www.datasetlist.com/)
 
 ## Collection
