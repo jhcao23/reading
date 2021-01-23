@@ -55,6 +55,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Algorithmia](https://algorithmia.com/)
 + [Arcanum](https://www.arcanum.ai/)
 + [Machine learning datasets](https://www.datasetlist.com/)
++ [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 ## CV
 + [OpenCV](https://opencv.org/)
