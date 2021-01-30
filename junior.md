@@ -7,9 +7,10 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn) - it's popular not very necessary or friendly to newbie
   - only the _Responsive Web Design Certificate_ is suggested to give a try, but DO NOT stuck into it!
 
-### Math basics
+### Math & coding basics
 - [Khan](https://www.khanacademy.org/)
   - [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+- Have fun: [VEXcode VR](https://vr.vex.com/) - a playground for Python programmer of entry-level
 - __Tough Challenge - your shortcut to be hired by giant company like Amazon Facebook Microsoft Google__
   - [LeetCode](https://leetcode.com/) to practice your coding skill. Use your favorate language.
   - only try EASY level please! I mean try, not complete a question!
