@@ -2,6 +2,8 @@
 
 This includes, but not limited to, `Java 8+, Kotlin, Scala, Spring, Python 3, Node, Typescript, Angular 9+, React, Vue 3+` and `AI (Machine Learning, Deep Learning)`, `Big Data` etc.
 
-## [AI](AI.MD)
+### [Learn coding for Junior or newbie](junior.md)
 
-## [Drawing](drawing.md)
+### [AI](AI.MD)
+
+### [Drawing](drawing.md)
