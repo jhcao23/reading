@@ -26,3 +26,5 @@
   - more courses on web-based application development: frontend + backend, etc.
   - [AI general course by Frank Kane](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
  
+## Tips
+- always remember __improving your coding skill__ is nothing magic but simply __keep doing experiment!__ (a loop of `[code, run, watch, think, update]`)
