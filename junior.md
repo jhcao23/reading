@@ -1,6 +1,6 @@
 # learning resources for Junior programmer or newbie
 
-## Free Course | foundation
+## Free Course of web-based application coding | foundation
 - [w3schools](https://www.w3schools.com/)
   - basic: [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [JavaScript, NOT JAVA!](https://www.w3schools.com/js/) - skip jQuery
   - advanced: [Bootstrap 4](https://www.w3schools.com/bootstrap4/) => after this, theoretically you are entering intermediate level of web-based programming!
