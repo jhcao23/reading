@@ -1,7 +1,7 @@
 # learning resources for Junior programmer or newbie
 
 ### Free Course of web-based application coding | foundation
-- [w3schools](https://www.w3schools.com/){:target="_blank"} - the most classic boarding school of the programming world
+- [w3schools](https://www.w3schools.com/) - the most classic boarding school of the programming world
   - basic: [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [JavaScript, NOT JAVA!](https://www.w3schools.com/js/) - skip jQuery
   - advanced: [Bootstrap 4](https://www.w3schools.com/bootstrap4/) => after this, theoretically you are entering intermediate level of web-based programming!
 - [FreeCodeCamp](https://www.freecodecamp.org/learn) - it's popular but not very necessary/friendly to newbie
