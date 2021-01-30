@@ -12,7 +12,7 @@
   - [Calculus 1](https://www.khanacademy.org/math/calculus-1)
 - Have fun: [VEXcode VR](https://vr.vex.com/) - a playground for Python programmer of entry-level
 - __Tough Challenge - your shortcut to be hired by giant company like Amazon Facebook Microsoft Google__
-  - [LeetCode](https://leetcode.com/) to practice your coding skill. Use your favorate language.
+  - [LeetCode](https://leetcode.com/) to practice your coding skill. Use your favorate language (like Python Java JavaScript).
   - only try EASY level please! I mean try, not complete a question!
 
 ### Machine Learning or AI
