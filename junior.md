@@ -12,6 +12,7 @@
   - [Calculus 1](https://www.khanacademy.org/math/calculus-1)
 - __Tough Challenge - your shortcut to be hired by giant company like Amazon Facebook Microsoft Google__
   - [LeetCode}(https://leetcode.com/) to practice your coding skill. Use your favorate language.
+  - only try EASY level please! I mean try, not complete a question!
 
 ## Machine Learning or AI
 - [my summary of the learning resources](AI.MD)
