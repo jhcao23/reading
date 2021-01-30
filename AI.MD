@@ -1,7 +1,7 @@
 # AI Reading Resources
 
 ## Person Blog
-+ [gatsby-starter-lumen](https://www.gatsbyjs.org/starters/alxshelepenok/gatsby-starter-lumen/)
++ [gatsby](https://www.gatsbyjs.com/)
 
 ## DL Blogs and Notes
 + [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books) [PDF](
