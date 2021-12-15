@@ -1,8 +1,5 @@
 # AI Reading Resources
 
-## Person Blog
-+ [gatsby](https://www.gatsbyjs.com/)
-
 ## DL Blogs and Notes
 + [黄海广的学习笔记-吴恩达DL](https://github.com/fengdu78/deeplearning_ai_books) [PDF](
 https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度学习笔记v5.61.pdf)
@@ -30,8 +27,8 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Natural Language Processing with Python](http://www.nltk.org/book)
 
 ## ML Courses
++ [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 + [Google AI](https://ai.google/education)
-+ [Google Machine Learning](https://developers.google.com/machine-learning)
 + [Andrww Ng ML Coursera](https://www.coursera.org/learn/machine-learning)
 + [Andrew Ng DL Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
 + [FeiFei Li CS231n](http://cs231n.stanford.edu)
