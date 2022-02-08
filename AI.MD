@@ -62,6 +62,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Microsoft AI education materials for Chinese](https://github.com/microsoft/ai-edu)
 + [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
 + [机器学习导航站](https://www.mlhub123.com)
++ [DAIR.AI](https://dair.ai/) lists [ML youtube courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 ## Non popular courses & blogs
 + [MIT Deep Learning](https://deeplearning.mit.edu/)
@@ -70,4 +71,3 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning深度
 + [Inveterate Learner on a few chapters of DeepLearningBook](https://medium.com/inveterate-learner)
 + [hadrienj reads DeepLearningBook](https://hadrienj.github.io/)
 + [Deep Learning Rules of Thumb](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb)
-
